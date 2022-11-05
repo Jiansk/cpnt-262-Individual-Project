@@ -5,7 +5,11 @@
 ## Github pages site:
 - 
 ## Attributions:
+
+- w3:https://www.w3schools.com/js/js_json_intro.asp
+- w3:https://www.w3schools.com/jsref/api_fetch.asp
 - w3:https://www.w3schools.com/jsref/jsref_map.asp
+- w3:https://www.w3schools.com/jsref/met_node_insertadjacenthtml.asp
 - youtube:https://www.youtube.com/watch?v=cuEtnrL9-H0&t=134s
 - youtube:https://www.youtube.com/watch?v=uxf0--uiX0I&t=599s
 
