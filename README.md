@@ -3,7 +3,7 @@
 ## Author:
 - Jian Villanueva
 ## Github pages site:
-- 
+- https://jiansk.github.io/cpnt-262-Individual-Project-Fetching-API-Data/
 ## Attributions:
 
 - w3:https://www.w3schools.com/js/js_json_intro.asp
