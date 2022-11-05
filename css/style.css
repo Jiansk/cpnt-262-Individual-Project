@@ -1,0 +1,31 @@
+body {
+    background-color :rgb(17, 17, 17);
+  }
+
+  h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Bungee Spice', Arial, Helvetica cursive;
+  }
+  
+  .user {
+      font-size: 20px;
+      color: aliceblue;
+      background-color: rgb(48, 48, 48);
+      padding: 1rem;
+    
+      margin-bottom: 1.5rem;
+      border : 2px solid rgb(144, 65, 144);
+      border-width: 3px;
+  }
+
+  div {
+    font-family: 'Roboto', sans-serif;
+    column-count: 2;
+    column-rule-style:solid;
+    column-rule-width: 2px;
+    column-rule-color:rgb(144, 65, 144) ;
+    column-span: all;
+    column-width: 100px;
+  }
