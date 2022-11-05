@@ -15,3 +15,9 @@
 
 ### API used:
 https://thronesapi.com/api/v2/Characters
+
+### Above and Beyond
+- Which did you choose?
+- answer: .map()
+- What file(s) and line number(s) can it be found?
+- answer: 
