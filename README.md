@@ -20,4 +20,4 @@ https://thronesapi.com/api/v2/Characters
 - Which did you choose?
 - answer: .map()
 - What file(s) and line number(s) can it be found?
-- answer: 
+- answer: line 14
